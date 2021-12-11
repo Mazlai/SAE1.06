@@ -66,6 +66,7 @@
     margin-right:auto;
 	margin-top:30px;
     line-height:25px;
+    margin-bottom:20px;
 	/*width:650px;*/
 }
 #main-btn:hover, #download-pdf:hover {
@@ -85,17 +86,17 @@
 	font-family:'Corbel';
 	font-size:20px;
 	line-height:30px;	
-  	-moz-animation: gloweffect 1s ease-in-out infinite alternate; /*créé la surbrillance*/
-  	animation: gloweffect 1s ease-in-out infinite alternate; /*répétition de l'animation en boucle*/
+  	/*-moz-animation: gloweffect 1s ease-in-out infinite alternate; /*créé la surbrillance
+  	animation: gloweffect 1s ease-in-out infinite alternate; /*répétition de l'animation en boucle
 }
 
 @keyframes gloweffect {
 	from {
-	  	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #012900, 0 0 40px #012900, 0 0 50px #012900; /*profondeur de l'effet d'entrée*/
+	  	text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #012900, 0 0 40px #012900, 0 0 50px #012900; /*profondeur de l'effet d'entrée
 	}
 	to {
-	  	text-shadow: 0 0 20px #fff, 0 0 30px #097200, 0 0 40px #097200, 0 0 50px #097200, 0 0 60px #097200; /*profondeur de l'effet de sortie*/
-	}
+	  	text-shadow: 0 0 20px #fff, 0 0 30px #097200, 0 0 40px #097200, 0 0 50px #097200, 0 0 60px #097200; /*profondeur de l'effet de sortie
+	}*/
 }
 
 /*------ Pages organisations ------ */
