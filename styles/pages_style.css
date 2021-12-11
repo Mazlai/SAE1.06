@@ -15,11 +15,11 @@
     margin-right:auto;
     height:calc(100vh - 100px);
     width:100%;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-	border:2px solid #097200;
-	border-top:none;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border:2px solid #097200;
+    border-top:none;
 }  
 
 /*Contenu sur image de fond*/
@@ -47,7 +47,7 @@
 }
 #main-hypertext:hover{
     color:#FFF800;
-    transition: 0.2s ease-in-out;
+    cursor:pointer;
 }
 
 /*Boutons*/
