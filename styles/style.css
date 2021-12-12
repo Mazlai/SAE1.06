@@ -305,7 +305,7 @@ footer {
 	.subheader {
 		top:350px;
 		display:none;
-		max-height:300px;
+		max-height:calc(100vh - 350px);
 		overflow-y:scroll;
 		position:fixed;
 	}
