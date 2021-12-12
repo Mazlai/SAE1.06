@@ -277,8 +277,8 @@ footer {
 		float:right;
 		display:none;
 		height:auto;
-		height:350px;
-		max-height:50vh;
+		height:50vh;
+		max-height:350px;
 		overflow-y:scroll;
 	}
 
