@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="../styles/style.css">
+        <link rel="stylesheet" href="../styles/pages_style.css">
+        <title>Accueil</title>
+    </head>
+    <body>
+		<header>
+			<div id="header-content">
+				<a href="index.html" class="selected header-link">
+					<div class="header-item">
+						Accueil
+					</div>
+				</a>
+				<a href="ilek_page.html" class="header-link">
+				<div class="header-item">
+					Ilek
+					<img src="../images/icons/ilek_logo_lime.png">
+				</div>
+				<a href="adagos_page.html" class="header-link">
+				<div class="header-item">
+					Adagos
+					<img src="../images/icons/adagos_logo_lime.png">
+				</div>
+				<a href="comparison_page.html" class="header-link">
+					<div class="header-item">
+						Comparatif des stratégies
+					</div>
+				</a>
+				<a href="about_page.html" class="header-link">
+					<div class="header-item">
+						À propos
+					</div>					
+				</a>
+				<div id="header-hide" onclick="hide_header();">X</div>
+			</div>
+			<div id="header-show" onclick="show_header();">
+			</div>
+			<script type="text/javascript" src="../scripts/script.js"></script>
+		</header>		
+        <section id="index-section">
+            <article id="img-bckd">
+                <div id="all-content">
+                    <div id="main-content">                        
+                            <h1>Bienvenue sur le site web comparatif des entreprises GreenTech choisies par Tilian .H et Mickaël .F.</h1>
+                            <p>Retrouvez sur ce site, la présentation des deux entreprises GreenTech choisies dans le contexte de la SAE 1.06 se déroulant à l’IUT de Blagnac, ainsi que le comparatif de leur stratégie respective.
+							</p>
+                            <a id="main-hypertext" href="about_page.html">En savoir plus</a>
+                    </div>
+                    <button id="main-btn" onclick="window.location.href='comparison_page.html';">Voir le comparatif des stratégies</button>
+                </div>
+                <a href="#anchor1">
+					<div id="infos-greentech">
+						La GreenTech<br/>
+						&#x2193; &#8205; &#x2193; &#8205; &#x2193;
+					</div>
+				</a>
+            </article>
+            <article id="greentech-content">
+            	<span class="anchor" id="anchor1"></span>
+				<h1>&#x25B6; La GreenTech</h1>
+				<p>La Greentech rassemble des organisations cherchant à innover dans les nouvelles technologies durables, dans le respect et la protection de l’environnement. Ainsi, elle contribue écologiquement au développement durable
+					avec pour objectif principal de réduire l’empreinte carbone sur Terre.</p>
+				<p>Les organisations GreenTech se retrouvent dans plusieurs domaines, comme les énergies renouvelables, l’agriculture, les transports propres, mais aussi la santé ou encore le numérique durable.</p>	
+            </article>
+        </section>
+        <footer>
+			<div id="footer-content">
+				<div class="footer-info">
+					<h3>Site développé par :</h3>
+					<p>Mickaël FERNANDEZ<br/>Tilian HURÉ</p>
+				</div>
+				<div class="footer-info">
+					<h3>Contact :</h3>
+					<p>micky31200@gmail.com<br/>tilian.contact@gmail.com</p>
+				</div>
+				<div class="footer-info">
+					<a href="mentions_legales_page.html">Mentions légales</a>
+				</div>
+				<div class="footer-info" id="mentions-legales">
+					<a target="_blank" href="https://www.iut-blagnac.fr/fr/"><img src="../images/icons/iut_logo_white.png"></a>
+					<a target="_blank" href="https://www.laregion.fr/"><img src="../images/icons/laregion_logo_white.png"></a>
+				</div>
+			</div>
+		</footer>
+    </body>
+</html>
+
