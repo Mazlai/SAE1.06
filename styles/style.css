@@ -277,6 +277,9 @@ footer {
 		float:right;
 		display:none;
 		height:auto;
+		height:350px;
+		max-height:50vh;
+		overflow-y:scroll;
 	}
 
 	.header-item, .header-link {
@@ -303,9 +306,9 @@ footer {
 
 	/*SubHeader*/
 	.subheader {
-		top:350px;
+		top:min(50vh, 350px);
 		display:none;
-		max-height:calc(100vh - 350px);
+		max-height:50vh;
 		overflow-y:scroll;
 		position:fixed;
 	}
