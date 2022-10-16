@@ -1,0 +1,93 @@
+## Bilan des compétences - SAE S1.06 - Découverte de l’environnement économique et écologique
+
+=== Bilan technique :
+
+==== Contexte et objectifs :
+
+- _Objectif principal_ : Développer un site web éco-conçu pour comparer les
+stratégies des organisations impliquées dans la GreenTech.
+- Rechercher, recueillir des informations et étudier les organisations d’un
+même domaine GreenTech.
+- Présenter l’analyse effectuée de l’organisation sur un site web, à l’aide
+d’outils de diagnostic stratégique.
+
+==== Problèmes rencontrés et solutions adoptées :
+
+- Distinguer le besoin du client | Consulter les documents fournis.
+- Chercher une entreprise GreenTech en Occitanie | Se référer au site
+“GreenTech Innovation”.
+- Réaliser la présentation du positionnement économique / écologique de
+l’entreprise | Consulter de la documentation via Internet.
+- Construire et représenter le site web | Se référer au document écrit sur
+Google Docs ; utiliser Figma pour la maquette du site web ; utiliser les
+langages de balisages HTML-CSS (JS) pour sa réalisation.
+- Respecter les exigences de la communication professionnelle | Se référer
+aux cours de communication.
+
+==== Objectifs et résultats :
+
+- ✓ Trier et recenser les informations sur l’organisation sélectionnée.
+- ✓ Présenter un acteur local de la GreenTech sur un site web éco-conçu.
+- ✓ Réaliser des tests d’impacts écologiques du site web.
+
+=== Bilan du travail d’équipe :
+
+==== Relations et fonctionnement de l’équipe :
+
+- _Accord au sein de l’équipe_ : Etre responsable, ponctuel et productif.
+- Utilisation de Discord pour échanger dans le groupe.
+- Utilisation de Google Docs (Git) en tant que ‘bloc-note’ pour la collecte
+d’informations.
+- Utilisation de Figma pour réaliser la maquette du site web.
+- Utilisation de Visual Studio Code pour développer le site web éco-conçu.
+
+==== Planification prévisionnelle / réelle des tâches :
+
+- *Temps prévisionnel : 18 heures | Temps réel : 17 heures.*
+
+==== Répartition du travail :
+
+- Identifier le besoin du client | 2 membres.
+- Recherche d’un hébergeur pour le site web | 2 membres.
+- Choisir, rechercher et étudier les organisations | 2 membres.
+- Concevoir la maquette et structurer le site web | 1 membre pour chaque
+partie.
+- Réaliser la bibliographie | 2 membres.
+
+=== Bilan de compétences personnelles :
+
+==== Place occupée / tâches prises en charge :
+
+- Appuyer son coéquipier sur la compréhension du positionnement de
+l’entreprise (PESTEL, chaîne de valeur, etc.).
+- Réaliser la page d’accueil ainsi que la page “à propos”.
+- *Les deux membres ont effectué les tâches réparties équitablement :*
+- Analyser séparément les organisations choisies.
+- Développer / héberger le site web et représenter sa maquette.
+
+==== Rapport entre les ressources et compétences :
+
+- Déceler la contrainte du client / Réaliser l’étude d’une entreprise :
+R1.08-ProjOrg.
+- Saisir le fonctionnement d’un environnement économique : R1.09-Eco.
+- Organiser un “brainstorming” sur un document écrit : R1.02-DevWeb.
+- Construire des maquettes et développer le site web : R1.02-DevWeb.
+- Savoir présenter, argumenter et structurer ses propos : R1.11-Com.
+
+==== Réussites et difficultés rencontrées :
+
+===== Réussites :
+
+- Compréhension recevable de l’exigence du client.
+- Organisation simple, compréhensible et efficace des activités.
+- Être convaincant dans ses propos, auprès de son coéquipier ;
+communication agréable.
+- Évolution des connaissances du fonctionnement de la vie active (et d’une
+entreprise) grâce à des échanges profitables.
+- Réussite collective de la réalisation du site web, étant éco-responsable.
+
+===== Difficultés :
+
+- Établir le plan économique de l’organisation, étant difficile à discerner
+pour une start-up avec peu de sources.
+- Comprendre les enjeux de l’entreprise (son environnement).
