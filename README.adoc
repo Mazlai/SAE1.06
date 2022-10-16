@@ -13,7 +13,7 @@ toc::[]
 
 Bienvenue sur le site web comparatif des entreprises GreenTech choisies par Tilian .H et Mickaël .F.
 
-Retrouvez sur le site, la présentation des deux entreprises GreenTech choisies dans le contexte de la SAE 1.06 se déroulant à l’IUT de Blagnac, ainsi que le comparatif de leur stratégie respective.
+Retrouvez sur le site, la présentation des deux entreprises GreenTech choisies dans le contexte de la SAE 1.06 se déroulant à l’IUT de Blagnac, ainsi que le comparatif de leur stratégie respective. (https://tilian-hure.github.io/SAE1.06/pages/index.html)
 
 === Présentation GreenTech
 
@@ -23,7 +23,7 @@ Les organisations GreenTech se retrouvent dans plusieurs domaines, comme les én
 
 == ILEK
 
-Dans ce document, vous retrouverez l'analyse complète de la société ILEK. Pour en savoir plus sur Adagos, consultez notre site.
+Dans ce document, vous retrouverez l'analyse complète de la société ILEK. Pour en savoir plus sur Adagos, consultez notre site : https://tilian-hure.github.io/SAE1.06/pages/index.html
 
 === Tableau récapitulatif
 
